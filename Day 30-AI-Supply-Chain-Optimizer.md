@@ -21,12 +21,18 @@ Every decision dynamically updated business metrics and helped me understand the
 - Understood how products move from suppliers to customers
 - Explored the role of factories, warehouses, transportation, and inventory
 - Learned how business decisions affect overall supply chain performance
+<img width="1887" height="867" alt="image" src="https://github.com/user-attachments/assets/e3ddcff3-83a0-4e0d-8130-e66429fbe98c" />
+
 
 ### 2. Random Company Profile
 - Reviewed a randomly generated company profile
 - Analyzed company requirements and business conditions
 - Understood demand patterns and operational priorities
 - Evaluated supply chain challenges before making decisions
+<img width="1525" height="857" alt="image" src="https://github.com/user-attachments/assets/27ed0d1d-f3e8-4228-92b3-cc43eb2ead64" />
+
+<img width="1408" height="806" alt="image" src="https://github.com/user-attachments/assets/e9727e7e-5e36-420a-bc49-bc738696b9ad" />
+
 
 ### 3. Supplier Strategy
 Selected a supplier strategy based on:
@@ -36,6 +42,10 @@ Selected a supplier strategy based on:
 - Quality
 - Supply disruption risk
 - Long-term business resilience
+<img width="1338" height="807" alt="image" src="https://github.com/user-attachments/assets/71d4148d-4368-4db1-b297-325b3f0650ee" />
+
+<img width="1527" height="797" alt="image" src="https://github.com/user-attachments/assets/4d6be390-8d54-4fe5-8861-f37fa910ef01" />
+
 
 ### 4. Factory Location Strategy
 Selected a factory location by considering:
@@ -45,6 +55,8 @@ Selected a factory location by considering:
 - Distance from customers
 - Operational risk
 - Production efficiency
+<img width="1456" height="862" alt="image" src="https://github.com/user-attachments/assets/236e4dd9-a655-4137-9974-f28b016f8b60" />
+
 
 ### 5. Warehouse Strategy
 Designed a warehouse strategy based on:
@@ -53,6 +65,7 @@ Designed a warehouse strategy based on:
 - Delivery speed
 - Distribution efficiency
 - Regional coverage
+
 
 ### 6. Transportation Strategy
 Selected the best transportation method by analyzing:
@@ -108,6 +121,7 @@ The simulator should include a beginner-friendly introduction, randomly generate
 The final dashboard should display the Overall Supply Chain Score, strengths, weaknesses, major risks, and recommended improvements.
 
 Make the application interactive, responsive, professional, and suitable for learning supply chain optimization through scenario-based decision-making.
+<img width="1212" height="857" alt="image" src="https://github.com/user-attachments/assets/c6629135-06d2-44e7-a69d-19478f78a5e1" />
 
 ## Key Learnings
 - Supply chain optimization requires balancing multiple business objectives
